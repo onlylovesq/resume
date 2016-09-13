@@ -1,0 +1,48 @@
+html,body {
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+}
+
+.fullpage{
+	min-width: 320px;
+	max-width: 640px;
+	width:100%;
+	height: 500%;
+	margin:0 auto;
+
+}
+
+.section {
+	width: 100%;
+	height:20%;
+}
+
+.sectionone{
+	background-color: #0da5d6;
+}
+
+.sectiontwo{
+	background-color: #68228B;
+}
+
+
+.sectionthree{
+	background-color: #5CACEE;
+}
+
+
+.sectionfour{
+	background-color: #CD3333;
+}
+
+
+.sectionfive{
+	background-color: #FF7F24;
+}
+
+
+
+
